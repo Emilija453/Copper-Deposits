@@ -6,7 +6,7 @@ This project visualizes copper deposits across Africa, China, Indopacific, and S
 
 ## Data Sources
 
-- Data by [U.S. Geological Survey](https://www.usgs.gov/)
+Data by [U.S. Geological Survey](https://www.usgs.gov/)
 - **Africa**: https://catalog.data.gov/dataset/compilation-of-geospatial-data-gis-for-the-mineral-industries-and-related-infrastructure-o
 - **China**: https://catalog.data.gov/dataset/compilation-of-geospatial-data-gis-for-the-mineral-industries-and-related-infrastructure-o-dedda
 - **Indopacific**: https://catalog.data.gov/dataset/compilation-of-geospatial-data-gis-for-the-mineral-industries-and-related-infrastructure-o-6058f
